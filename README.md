@@ -9,7 +9,7 @@ Once python is installed and you have all the required files downloaded you can 
 
 Also, make sure that your terminal is completely clear before clicking: ``` Run Python File ```
 
-If you wish to type in your VS Code you can type the following:
+If you wish to type in your VS Code terminal you can type the following:
 
 For FCFS: ``` python fcfs.py ```
 
