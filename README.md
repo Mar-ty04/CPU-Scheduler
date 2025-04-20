@@ -5,6 +5,7 @@ We will be using our VS Code terminal to to run this code. Please make sure you 
 This also requires to make sure you have python installed on VS Code. 
 
 Once python is installed and you have all the required files downloaded, place all the files into the same folder. This step is important as without it you won't be able to run the files.
+
 Once you have your files in the same folder, you can simply run the code by clicking the button up top which says 
 
 ``` Run Python File ```
